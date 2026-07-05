@@ -1,4 +1,4 @@
-# The Ultimate Job-Ready Data Science Course
+# Data Science Course - CodeWithHarry
 
 A concise, hands-on Data Science course for beginners and intermediate learners — designed to make you job-ready with practical projects and real-world examples.
 
