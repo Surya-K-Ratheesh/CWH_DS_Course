@@ -11,9 +11,6 @@ A concise, hands-on Data Science course for beginners and intermediate learners 
 - [Introduction](#introduction)
 - [Course Modules](#course-modules)
 - [Projects](#projects)
-- [Requirements](#requirements)
-- [How to use this repository](#how-to-use-this-repository)
-- [Contact / Credits](#contact--credits)
 
 ## Introduction
 This course is a to-the-point, CodeWithHarry style Data Science curriculum that walks you from Python fundamentals to building ML models and production-ready RAG systems. It emphasizes hands-on learning through notebooks and projects.
@@ -37,28 +34,10 @@ This course is a to-the-point, CodeWithHarry style Data Science curriculum that 
 - Project 2 — Coders of Bangalore: web scraping, parsing, analysis
 - Project 3 — RAG-based AI Teaching Assistant: video transcription, chunking, embeddings, retrieval
 
-## Requirements
-Recommended: Anaconda (or Miniconda) with Python 3.8+ and the usual data science packages.
+## Credits
+- **Course credit:** Content credited to CodeWithHarry.
 
-Create a conda environment and install common packages:
-
-```bash
-conda create -n ds-course python=3.10 -y
-conda activate ds-course
-pip install numpy pandas matplotlib seaborn scikit-learn jupyterlab requests beautifulsoup4 joblib tensorflow torch
-```
-
-## How to use this repository
-- Open the notebooks with JupyterLab or VS Code.
-- Run cells sequentially to reproduce analyses and experiments.
-- Explore the `Data_Collection`, `Packages`, `Python`, and `Projects` folders for module-specific notebooks and data files.
-
-## Notes
-- No prior data science experience required — the course starts from fundamentals.
-- Works best with a stable internet connection for external resources and package installs.
-
-## Contact / Credits
-If you want improvements or additional sections, open an issue or PR.
+This repository is intended for personal learning only. Do not distribute or use this course content externally without permission.
 
 ---
 Happy learning! 🚀
